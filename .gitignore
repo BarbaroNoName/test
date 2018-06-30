@@ -1,0 +1,7 @@
+﻿*.рус
+*~
+__pycache__
+first
+db.sqlite3
+/static
+.DS_Store
